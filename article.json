@@ -1,0 +1,17 @@
+[
+    {
+        "userNumber": 1,
+        "userName": "Ömer",
+        "userSurname": "Yapıcı" 
+    },
+
+    {
+        "userNumber": 2,
+        "userName": "B",
+        "userSurname" : {
+            "firsSurname": "A",
+            "secondSurname": "C"
+        }
+    }
+
+]

@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "name": "Cristiano",
+        "position": "Front-End Web Lead",
+        "age": 44
+        
+    },
+
+    {
+        "id" : 2,
+        "name": "Kari",
+        "position": "Back-End Web Developer",
+        "age": 23
+    },
+
+    {
+        "id": 3,
+        "name": "Adam",
+        "position": "Back-End Web Developer",
+        "age": 29
+    },
+
+    {
+        "id": 4,
+        "name": "jinny",
+        "position": "Jr Designer",
+        "age": 24
+    },
+
+    {
+        "id": 5,
+        "name": "Adam",
+        "position": "Senior Designer",
+        "age": 32
+    }
+]

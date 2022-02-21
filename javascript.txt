@@ -1,0 +1,1 @@
+JavaScript is a Programing language for the Client and Server.
